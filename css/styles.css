@@ -1,0 +1,21 @@
+:root {
+  /* Fonts */
+
+  /* Text-colors */
+  --main-txt-cl: #303030
+
+  /* Background colors */
+
+  --main-bg-cl: #333333
+}
+
+.page {
+  line-height: calc(30 / 18);
+  letter-spacing: 0.02em;
+  color: var(--main-txt-cl);
+}
+
+.link {
+  text-decoration: none;
+}
+
